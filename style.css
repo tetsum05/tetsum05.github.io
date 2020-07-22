@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background: #151515 url('../images/bg.png') no-repeat fixed left bottom;
+  background: #151515 url('https://github.com/tetsum05/tetsum05.github.io/blob/master/bg.png?raw=true') no-repeat fixed left bottom;
   background-size: cover;
   color: #fff;
   text-align: center;
